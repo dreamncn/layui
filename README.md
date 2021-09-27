@@ -2,7 +2,18 @@
 
 #### 介绍
 layui镜像站
-
+主页
+www.layui.com/index.htm
+文档
+www.layui.com/doc/index.htm
+例子
+www.layui.com/demo/index.htm
+layer
+www.layui.com/layer/index.htm
+laydate
+www.layui.com/laydate/index.htm
+扩展组件
+fly.layui.com/extend/index.htm
 #### 软件架构
 软件架构说明
 
