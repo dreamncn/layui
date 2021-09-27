@@ -4,22 +4,22 @@
 layui镜像站
 
 1.主页
-www.layui.com/index.htm
+http://lh_yun.gitee.io/layui/www.layui.com/index.htm
 
 2.文档
-www.layui.com/doc/index.htm
+http://lh_yun.gitee.io/layui/www.layui.com/doc/index.htm
 
 3.例子
-www.layui.com/demo/index.htm
+http://lh_yun.gitee.io/layui/www.layui.com/demo/index.htm
 
 4.layer
-www.layui.com/layer/index.htm
+http://lh_yun.gitee.io/layui/www.layui.com/layer/index.htm
 
 5.laydate
-www.layui.com/laydate/index.htm
+http://lh_yun.gitee.io/layui/www.layui.com/laydate/index.htm
 
 6.扩展组件
-fly.layui.com/extend/index.htm
+http://lh_yun.gitee.io/layui/fly.layui.com/extend/index.htm
 
 #### 软件架构
 软件架构说明
