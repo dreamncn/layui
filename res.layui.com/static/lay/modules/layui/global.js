@@ -286,7 +286,7 @@ layui.define(['code', 'element', 'table', 'util', 'carousel', 'laytpl'], functio
         });
 
       });
-    })([{"classname":"toptg","key":"toptg-notice","title":"layui 官网下线公告","url":"/www.layui.com/about/notice.html","CONFIG_TIME":"9/26/2021, 6:25:48 PM","tips":"","tipsCss":"background-image: linear-gradient(to right,#359FD4,#36B5C8,#25D8AB","hot":"1"}]);
+    })([{"classname":"toptg","key":"toptg-notice","title":"layui 官网下线公告","url":"../www.layui.com/about/notice.html","CONFIG_TIME":"9/26/2021, 6:25:48 PM","tips":"","tipsCss":"background-image: linear-gradient(to right,#359FD4,#36B5C8,#25D8AB","hot":"1"}]);
   }();
 
   //头部动态导航
@@ -309,7 +309,7 @@ layui.define(['code', 'element', 'table', 'util', 'carousel', 'laytpl'], functio
       elemNavTop.find('.layui-nav-bar').remove();
       elemNavTop.find('.layui-nav-item').off('mouseenter').off('mouseleave')
       element.render('nav');
-    })([{"classname":"toptg","key":"toptg-notice","title":"layui 官网下线公告","url":"/www.layui.com/about/notice.html","CONFIG_TIME":"9/26/2021, 6:25:48 PM","tips":"","tipsCss":"background-image: linear-gradient(to right,#359FD4,#36B5C8,#25D8AB","hot":"1"}]);
+    })([{"classname":"toptg","key":"toptg-notice","title":"layui 官网下线公告","url":"../www.layui.com/about/notice.html","CONFIG_TIME":"9/26/2021, 6:25:48 PM","tips":"","tipsCss":"background-image: linear-gradient(to right,#359FD4,#36B5C8,#25D8AB","hot":"1"}]);
   }();
 
   //弹出公告
