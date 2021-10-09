@@ -156,7 +156,7 @@ layui.define(['code', 'element', 'table', 'util', 'carousel', 'laytpl'], functio
     //搜索组件
     form.on('select(component)', function(data){
       var value = data.value;
-      location.href = /^\//.test(value) ? value : ('/www.layui.com/doc/'+ value);
+      location.href = /^\//.test(value) ? value : ('../../www.layui.com/doc/'+ value);
     });
   }();
 
