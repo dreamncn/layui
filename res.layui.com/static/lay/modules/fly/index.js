@@ -59,7 +59,7 @@ layui.define(['lay', 'layer', 'laytpl', 'form', 'element', 'upload', 'util'], fu
   
   var fly = {
 
-    dir: '../../res.layui.com/static/lay/modules/fly/' //模块路径
+    dir: '../../../res.layui.com/static/lay/modules/fly/' //模块路径
     
     //Ajax
     ,json: function(url, data, success, options){
