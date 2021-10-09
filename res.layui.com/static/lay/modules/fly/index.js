@@ -56,10 +56,10 @@ layui.define(['lay', 'layer', 'laytpl', 'form', 'element', 'upload', 'util'], fu
     }
     return num < Math.pow(10, length) ? str + (num|0) : num;
   };
-  
+
   var fly = {
 
-    dir: '../../../res.layui.com/static/lay/modules/fly/' //模块路径
+    dir: layui.cache.dir + '../../../res.layui.com/static/lay/modules/fly/' //模块路径
     
     //Ajax
     ,json: function(url, data, success, options){
