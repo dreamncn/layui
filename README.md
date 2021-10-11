@@ -3,8 +3,7 @@
 #### 介绍
 layui镜像站
 
-在线 pdf 
-http://lh_yun.gitee.io/layui/Layui 开发使用文档 - 入门指南.pdf
+[在线 pdf ](http://lh_yun.gitee.io/layui/Layui/开发使用文档 - 入门指南.pdf)
 
 1.主页
 http://lh_yun.gitee.io/layui/www.layui.com/index.htm
