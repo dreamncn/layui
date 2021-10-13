@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/dreamncn/layui/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Layui镜像站
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[源码](https://github.com/dreamncn/layui/) [在线 ](https://dreamncn.github.io/layui/Layui%20%E5%BC%80%E5%8F%91%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3%20-%20%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf)
 
-### Markdown
+### 目录
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+此处备份了几乎Layui所有相关资源，为了方便使用，建立该目录索引。
 
-```markdown
-Syntax highlighted code block
+- [主页](https://dreamncn.github.io/layui/www.layui.com/index.htm)
+- [文档](https://dreamncn.github.io/layui/www.layui.com/doc/index.htm)
+- [例子](https://dreamncn.github.io/layui/www.layui.com/demo/index.htm)
+- [layer](https://dreamncn.github.io/layui/www.layui.com/layer/index.htm)
+- [laydate](https://dreamncn.github.io/layui/www.layui.com/laydate/index.htm)
+- [扩展组件](https://dreamncn.github.io/layui/fly.layui.com/extend/index.htm)
+- [模板应用市场](https://dreamncn.github.io/layui/fly.layui.com/store/index.htm)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dreamncn/layui/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
