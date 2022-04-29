@@ -14,6 +14,7 @@
 - [laydate](https://dreamncn.github.io/layui/www.layui.com/laydate/index.htm)
 - [扩展组件](https://dreamncn.github.io/layui/fly.layui.com/extend/index.htm)
 - [模板应用市场](https://dreamncn.github.io/layui/fly.layui.com/store/index.htm)
+- [Layui表单设计器](https://dreamncn.github.io/layui-form-design/)
 
 
 
